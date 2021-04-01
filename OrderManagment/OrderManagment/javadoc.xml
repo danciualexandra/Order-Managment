@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="C:\Users\danci\.m2\repository\mysql\mysql-connector-java\8.0.13\mysql-connector-java-8.0.13.jar;C:\Users\danci\OneDrive\Desktop\mysql-connector-java-8.0.13.jar;C:\Users\danci\Downloads\itextpdf-5.5.10.jar;C:\Users\danci\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar;target/test-classes;C:\Users\danci\.m2\repository\com\itextpdf\itextpdf\5.5.10\itextpdf-5.5.10.jar" destdir="doc" doctitle="Java docc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.7" sourcefiles="src/main/java/start/Main.java" sourcepath="src/main/java;src/main/resources;src/test/java;src/test/resources" splitindex="true" use="true" version="true"/>
+    </target>
+</project>

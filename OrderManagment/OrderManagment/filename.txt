@@ -1,0 +1,7 @@
+Insert product:apple,20,1
+Order:Alin,Calinescu,apple,5 
+Insert product:bannana,30,4
+Insert client:Andrada,Muresan,Oradea
+Delete product:peach
+Insert client:Luca,George,Bucuresti
+Order:Luca,George,lemon,3
